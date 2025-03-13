@@ -1,2 +1,3 @@
 # IZITHOMBO-ZOMDONI-PROJECTS
-this is a company that focus on the live event setup like stage, sound system, tent hire, generator hire ect
+this is a company that focus on the live event setup like stage, sound system, tent hire, generator hire. this website will help meet clients, customers who need equipment setup for their events, gatherings, gala-dinners, conferences etc...
+
